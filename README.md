@@ -19,10 +19,10 @@ $ git checkout -b <branch_name>
  ```
  6. create PR
 ```console
-$ gh pr create
+ gh pr create
 ```
 
 7. submit.
 ```console
-$ gh pr merge
+ gh pr merge
 ```
